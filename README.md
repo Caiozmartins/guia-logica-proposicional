@@ -59,4 +59,4 @@ Comece pela introdução e avance pelos arquivos numerados dentro da pasta `docs
 
 
 Caio
-
+Os arquivos estão organizados em ordem progressiva para facilitar o aprendizado.
