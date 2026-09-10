@@ -4,10 +4,7 @@
 
 \## Objetivo
 
-
-
-Apresentar conceitos fundamentais de lógica proposicional e tabelas-verdade para estudantes iniciantes.
-
+Este guia apresenta os fundamentos da lógica proposicional, dos conectivos lógicos e das tabelas-verdade para estudantes iniciantes.
 
 \## Público-alvo
 
