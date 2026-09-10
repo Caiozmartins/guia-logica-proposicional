@@ -6,8 +6,7 @@
 
 
 
-Ensinar os fundamentos da lógica proposicional e da construção de tabelas-verdade.
-
+Apresentar conceitos fundamentais de lógica proposicional e tabelas-verdade para estudantes iniciantes.
 
 
 \## Público-alvo
