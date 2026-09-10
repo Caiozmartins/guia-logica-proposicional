@@ -1,0 +1,66 @@
+\# Guia Introdutório de Lógica Proposicional e Tabelas-Verdade
+
+
+
+\## Objetivo
+
+
+
+Ensinar os fundamentos da lógica proposicional e da construção de tabelas-verdade.
+
+
+
+\## Público-alvo
+
+
+
+Estudantes iniciantes de programação, computação e Engenharia de Software.
+
+
+
+\## Pré-requisitos
+
+
+
+Não são necessários conhecimentos avançados. É recomendável apenas familiaridade básica com matemática.
+
+
+
+\## Estrutura do guia
+
+
+
+O guia será organizado em:
+
+
+
+\- Introdução à lógica proposicional
+
+\- Conceitos fundamentais
+
+\- Conectivos lógicos
+
+\- Tabelas-verdade
+
+\- Exercícios
+
+\- Exemplos
+
+\- Referências
+
+
+
+\## Como navegar
+
+
+
+Comece pela introdução e avance pelos arquivos numerados dentro da pasta `docs`.
+
+
+
+\## Autoria
+
+
+
+Caio
+
